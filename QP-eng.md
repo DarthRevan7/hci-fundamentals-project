@@ -6,12 +6,12 @@
 
 1. **"To start, would you like to tell me a little about yourself and walk me through what a typical day looks like for you, from morning to evening?"**
    - *Neutral follow-up:* What activities or routines do you most enjoy spending your time on during the week?
-2. **"Looking back to when you stopped working, what are the main changes you noticed in your daily pace and habits since retiring?"**
+2. **"How would you compare your days now with when you were working?"**
 
 ### Phase 2: Going Deep: Relationships and Self-Care (6–7 min)
 
 3. **"Moving on to your interactions with other people: how do your relationships typically take shape during the week, between phone calls, meetups, or time spent on your own?"**
-   - *Neutral follow-up:* Are there moments when you prefer being on your own? And moments when you wish for more company? Could you tell us about that?
+   - *Neutral follow-up:* How do you feel about the amount of time you spend with others? Could you tell us about that?
 4. **"Thinking about your daily routines — such as meals, physical activity, or rest — how do you usually organize yourself throughout the week?"**
    - *Follow-up (only if appointments or therapies are mentioned):* How do you organize yourself to keep track of schedules or deadlines? Do you use reminders, or do you rely on memory?
 
