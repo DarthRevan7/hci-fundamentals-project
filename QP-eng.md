@@ -14,12 +14,14 @@
    - *Neutral follow-up:* How do you feel about the amount of time you spend with others? Could you tell us about that?
 4. **"Thinking about your daily routines — such as meals, physical activity, or rest — how do you usually organize yourself throughout the week?"**
    - *Follow-up (only if appointments or therapies are mentioned):* How do you organize yourself to keep track of schedules or deadlines? Do you use reminders, or do you rely on memory?
-# NEW 
+   
+###  NEW
 
 **"How is your sleep cycle? What helps you sleep well, and what gets in the way?**
 
 **"Can you tell me about how you usually decide what to eat on a typical day?"**
    -  Neutral follow-up: "What kinds of things do you take into account when you're choosing what to eat?"
+
 **What make it easy or difficult to stay active physcially or How do you usually stay physically active, if at all?**
 
 
@@ -38,5 +40,5 @@
 10. **"Is there anything else about your daily life or well-being that we haven't touched on, but that you think is important for us to know?"**
    - *Formal thank you and closing.*
 
-# NEW
+### NEW
 **What, if anything, would you like to be different about your daily routine/life?"** OR **is there anything would you like to be different about your daily routine/life**
