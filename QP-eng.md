@@ -14,31 +14,30 @@
    - *Neutral follow-up:* How do you feel about the amount of time you spend with others? Could you tell us about that?
 4. **"Thinking about your daily routines — such as meals, physical activity, or rest — how do you usually organize yourself throughout the week?"**
    - *Follow-up (only if appointments or therapies are mentioned):* How do you organize yourself to keep track of schedules or deadlines? Do you use reminders, or do you rely on memory?
-   
-###  NEW
-
-**"How is your sleep cycle? What helps you sleep well, and what gets in the way?**
-
-**"Can you tell me about how you usually decide what to eat on a typical day?"**
-   -  Neutral follow-up: "What kinds of things do you take into account when you're choosing what to eat?"
-
-**What make it easy or difficult to stay active physcially or How do you usually stay physically active, if at all?**
+   - *Follow-ups (if not mentioned):*
+      - **"How is your sleep cycle? What helps you sleep well, and what gets in the way?**
+      - **"Can you tell me about how you usually decide what to eat on a typical day?"**
+         -  *Neutral follow-up:* **"What kinds of things do you take into account when you're choosing what to eat?"**
+      - **How do you usually stay physically active, and is there anything that makes it challenging?**
+5.  **"How do you feel about your home and the neighborhood you live in?"**
+      - *Follow up:* **"What aspects or places in your area do you enjoy the most, and is there anything you find inconvenient?"**
 
 
 ### Phase 3: Obstacles, Unforeseen Events, and Tools (Clarifications & Failures) (5–6 min)
 
-5. **"If an off-day, a worry, or a minor practical inconvenience comes up, what do you usually do to deal with it? Who or what do you turn to?"**
+6. **"If an off-day, a worry, or a minor practical inconvenience comes up, what do you usually do to deal with it? Who or what do you turn to?"**
    - *Follow-up:* Does a recent situation come to mind where you had to resolve a small unexpected issue like that?
-6. **"On the other hand, when good news or a particularly pleasant moment happens during the week, what do you like to do, or who do you enjoy sharing it with?"**
-7. **"Could you tell me about the last time you used a phone, computer, or an app to get something practical done or look up information (e.g., local services, schedules, events)? How did it go?"**
+7. **"On the other hand, when good news or a particularly pleasant moment happens during the week, what do you like to do, or who do you enjoy sharing it with?"**
+8. **"Could you tell me about the last time you used a phone, computer, or an app to get something practical done or look up information (e.g., local services, schedules, events)? How did it go?"**
    - *Follow-up (if friction arises):* Was there any part of the process that was unclear or got you stuck? How did you manage to resolve it?
-8.  **How do you feel about the place where you live and the area around it?**
-   - *Follow-up(if he mentions difficulties:* What do you do when that comes up?
+
+
+
 ### Phase 4: Reflections & Wrap-up (3–4 min)
 
 9. **"Reflecting on your overall experience as a retiree, what aspects of your current life do you find most rewarding, and which ones, if any, do you find most demanding?"**
 10. **"Is there anything else about your daily life or well-being that we haven't touched on, but that you think is important for us to know?"**
    - *Formal thank you and closing.*
 
-### NEW
+### NEW  (Remove them cause HCI principles of "user not designers")
 **What, if anything, would you like to be different about your daily routine/life?"** OR **is there anything would you like to be different about your daily routine/life**
