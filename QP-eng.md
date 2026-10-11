@@ -22,9 +22,10 @@
 6. **"On the other hand, when good news or a particularly pleasant moment happens during the week, what do you like to do, or who do you enjoy sharing it with?"**
 7. **"Could you tell me about the last time you used a phone, computer, or an app to get something practical done or look up information (e.g., local services, schedules, events)? How did it go?"**
    - *Follow-up (if friction arises):* Was there any part of the process that was unclear or got you stuck? How did you manage to resolve it?
-
+8.  **How do you feel about the place where you live and the area around it?**
+   - *Follow-up(if he mentions difficulties:* What do you do when that comes up?
 ### Phase 4: Reflections & Wrap-up (3–4 min)
 
-8. **"Reflecting on your overall experience as a retiree, what aspects of your current life do you find most rewarding, and which ones, if any, do you find most demanding?"**
-9. **"Is there anything else about your daily life or well-being that we haven't touched on, but that you think is important for us to know?"**
+9. **"Reflecting on your overall experience as a retiree, what aspects of your current life do you find most rewarding, and which ones, if any, do you find most demanding?"**
+10. **"Is there anything else about your daily life or well-being that we haven't touched on, but that you think is important for us to know?"**
    - *Formal thank you and closing.*
