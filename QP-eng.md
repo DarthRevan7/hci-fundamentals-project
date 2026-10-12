@@ -1,6 +1,6 @@
 ## Interview Questions (English)
 
-*Semi-structured interview divided into 4 stages following HCI guidelines (Background, Going Deep, Clarifications & Failures, Reflections). Approximately 9 core questions + natural, unbiased follow-ups without leading assumptions.*
+*Semi-structured interview divided into 4 stages following HCI guidelines (Background, Going Deep, Clarifications & Failures, Reflections). Approximately 10 core questions + natural, unbiased follow-ups without leading assumptions.*
 
 ### Phase 1: Background & Context (4–5 min)
 
@@ -39,5 +39,3 @@
 10. **"Is there anything else about your daily life or well-being that we haven't touched on, but that you think is important for us to know?"**
    - *Formal thank you and closing.*
 
-### NEW  (Remove them cause HCI principles of "user not designers")
-**What, if anything, would you like to be different about your daily routine/life?"** OR **is there anything would you like to be different about your daily routine/life**
