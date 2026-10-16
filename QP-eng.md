@@ -5,22 +5,23 @@
 ### Phase 1: Background & Context (4–5 min)
 
 1. **"To start, would you like to tell me a little about yourself and walk me through what a typical day looks like for you, from morning to evening?"**
-   - *Neutral follow-up:* What activities or routines do you most enjoy spending your time on during the week?
-2. **"How would you compare your days now with when you were working?"**
+   - *Neutral follow-up:*What do you usually like to do during the week, or is there nothing in particular?
+2. **"Has your daily life changed compared to earlier phases of your life, or does it feel about the same?**
+    - *Follow-up: if yes* If it has changed, in what ways?"**
 
 ### Phase 2: Going Deep: Relationships and Self-Care (6–7 min)
 
-3. **"Moving on to your interactions with other people: how do your relationships typically take shape during the week, between phone calls, meetups, or time spent on your own?"**
+3. **"Moving on to your interactions with other people: how do your relationships(if any) typically take shape during the week, between phone calls, meetups, or time spent on your own?"**
    - *Neutral follow-up:* How do you feel about the amount of time you spend with others? Could you tell us about that?
 4. **"Thinking about your daily routines — such as meals, physical activity, or rest — how do you usually organize yourself throughout the week?"**
    - *Follow-up (only if appointments or therapies are mentioned):* How do you organize yourself to keep track of schedules or deadlines? Do you use reminders, or do you rely on memory?
    - *Follow-ups (if not mentioned):*
-      - **"How is your sleep cycle? What helps you sleep well, and what gets in the way?**
-      - **"Can you tell me about how you usually decide what to eat on a typical day?"**
+      - **How is your sleep? Does anything help you sleep well, or nothing in particular? Does anything get in the way, or nothing in particular?**
+      - **How do you usually decide what to eat on a typical day? Is it something you think about much, or not really?**
          -  *Neutral follow-up:* **"What kinds of things do you take into account when you're choosing what to eat?"**
-      - **How do you usually stay physically active, and is there anything that makes it challenging?**
-5.  **"How do you feel about your home and the neighborhood you live in?"**
-      - *Follow up:* **"What aspects or places in your area do you enjoy the most, and is there anything you find inconvenient?"**
+      - **Do you usually stay physically active? Is there anything that makes it easier? Is there anything that makes it harder? Or nothing in particular?**
+5.  **How do you feel about your home and neighborhood?**
+      - *Follow up:* **Is there anything you particularly like about them? Anything you find inconvenient? Or neither?"**
 
 
 ### Phase 3: Obstacles, Unforeseen Events, and Tools (Clarifications & Failures) (5–6 min)
