@@ -28,7 +28,7 @@
 
 6. **"If an off-day, a worry, or a minor practical inconvenience comes up, what do you usually do to deal with it? Who or what do you turn to?"**
    - *Follow-up:* Does a recent situation come to mind where you had to resolve a small unexpected issue like that?
-7. **"On the other hand, when good news or a particularly pleasant moment happens during the week, what do you like to do, or who do you enjoy sharing it with?"**
+7. **"On the other hand, when good news or a particularly pleasant moment happens during the week, what do you like to do?"**
 8. **"Could you tell me about the last time you used a phone, computer, or an app to get something practical done or look up information (e.g., local services, schedules, events)? How did it go?"**
    - *Follow-up (if friction arises):* Was there any part of the process that was unclear or got you stuck? How did you manage to resolve it?
 
