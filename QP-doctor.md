@@ -26,5 +26,4 @@
 12. "Has a patient’s wellbeing ever depended on something that was hard to arrange, or has that not come up in your experience?"
 
 ## Phase 4: Reflections (3-4 min)
-13. "When researchers or designers work on older adults’ wellbeing, what do you think they tend to focus on, and what gets less attention, or are they covered well?"
-14. "Is there anything we haven't discussed that you think would be important for us to understand or no?"
+13. "Is there anything we haven't discussed that you think would be important for us to understand or no?"
