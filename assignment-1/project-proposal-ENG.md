@@ -10,7 +10,7 @@ Instructors: **Luigi De Russis, Alberto Monge Roffarello** — Politecnico di To
 ### a. Team Members
 
 * **Tommaso Mancuso**
-* **Zharina Saden**
+* **Zarina Saden**
 * **Taha Shahid**
 * **Melissa Massarenti**
 
@@ -81,10 +81,10 @@ All interviews were conducted **in person within the everyday life contexts of t
 
 Each interview was conducted on-site by team members fulfilling designated roles (lead interviewer and note-takers/observers):
 
-* **Interview 1 (P1):** Tommaso Mancuso (*Lead Interviewer*), Zharina & Taha Shahid (*Note-taker & Audio Recording*).
-* **Interview 2 (P2):** Tommaso Mancuso (*Lead Interviewer*), Zharina & Taha Shahid (*Note-taker & Artifacts Tracking*).
-* **Interview 3 (P3):** Tommaso Mancuso (*Lead Interviewer*), Zharina & Taha Shahid (*Note-taker & Contextual Observation*).
-* **Interview 4 (P4):** Tommaso Mancuso (*Lead Interviewer*), Zharina & Taha Shahid (*Note-taker & Contextual Observation*).
+* **Interview 1 (P1):** Tommaso Mancuso (*Lead Interviewer*), Zarina & Taha Shahid (*Note-taker & Audio Recording*).
+* **Interview 2 (P2):** Tommaso Mancuso (*Lead Interviewer*), Zarina & Taha Shahid (*Note-taker & Artifacts Tracking*).
+* **Interview 3 (P3):** Tommaso Mancuso (*Lead Interviewer*), Zarina & Taha Shahid (*Note-taker & Contextual Observation*).
+* **Interview 4 (P4):** Tommaso Mancuso (*Lead Interviewer*), Zarina & Taha Shahid (*Note-taker & Contextual Observation*).
 * **Interview 5 (P5):** Tommaso Mancuso (*Lead Interviewer*), Taha Shahid (*Note-taker & Contextual Observation*).
 
 ### e. Materials Used
