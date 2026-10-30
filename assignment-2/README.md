@@ -33,11 +33,14 @@
 
 ### 2.a Tasks
 
-| Complexity | Task | Description |
-|------------|------|-------------|
-| **Simple** | [Task name] | [What the user does and why] |
-| **Moderate** | [Task name] | [What the user does and why] |
-| **Complex** | [Task name] | [What the user does and why] |
+#### Task 1: The Simple Task
+Goal: Join a spontaneous, low commitment neighborhood micro-walk to get some gentle exercise and fresh air.
+
+#### Task 2: The Moderate Task
+Goal: Participate in an intergenerational skill exchange (teaching a craft/cooking in exchange for a small errand or tech help).
+
+#### Task 3: The Complex Task
+Goal: Organize and participate in a single-day group outing to a location that is hard to reach by public transport (e.g., Sagra di San Michele) use voice for searching to make it simple and easier.
 
 ### 2.b Storyboard
 
