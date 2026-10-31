@@ -47,18 +47,19 @@ Goal: Organize and participate in a single-day group outing to a location that i
 ![Storyboard](images/storyboard.jpg)
 
 **Why we chose it:**
-[Explain why this storyboard/scenario was selected among the ones you drew.]
+We selected this scenario because it follows a single protagonist on a continuous, realistic journey of social reconnection and community engagement. It effectively weaves together all three tasks in a natural progression: starting from a low-barrier micro-walk (Task 1), moving to an intimate skill-sharing session (Task 2), and culminating in a collaborative, voice-assisted plan for a complex group outing (Task 3).
 
 **Strengths:**
-- [Strength 1]
-- [Strength 2]
+- **Human-centric focus:** It centers on user behavior, emotional needs, and real-life interactions rather than getting bogged down in complex user interface (UI) details.
+- **Clear progression:** Demonstrates a believable, motivating transition from initial isolation to active community participation.
+- **Effective use of voice interaction:** Clearly shows how voice search removes friction when planning a complex trip.
 
 **Weaknesses:**
-- [Weakness 1]
-- [Weakness 2]
+- **Panel density:** Compressing three distinct tasks and a multi-step narrative into 6 panels requires keeping background contexts relatively simple.
+- **Single perspective:** Focusing primarily on one main character's viewpoint limits showing how multiple peers interact simultaneously within the system.
 
 **How well it achieves the identified goal/user need:**
-[Explain how the scenario in the storyboard addresses the user need found in the needfinding.]
+The storyboard directly addresses the core needs identified during the needfinding phase—specifically loneliness, lack of physical motivation, and the intimidation factor of traditional digital interfaces. By showcasing natural social hooks and voice-driven accessibility, it proves how our solution can successfully empower elderly users to achieve all three defined tasks.
 
 ---
 
