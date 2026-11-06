@@ -16,18 +16,21 @@
 | Melissa Massarenti | s351695        |
 
 ### 1.b Value Proposition
-
-> [One sentence that sums up what the product does and why it matters to the user. E.g. "A ___ that helps pensioners ___ by ___."]
+An application thath helps pensioners by keeping them active and connected by letting them go into gentle neighbourhood walks and casual skill exchange, at their own pace, without complications.
 
 ### 1.c Problem/Solution Overview
 
 **Problem:**
-[What need/problem did you identify in the needfinding phase? Who is affected and why does it matter? Refer briefly to the interview findings.]
+Problem: Retirement brings freedom, but it also removes the structure that used to keep people moving and in contact with others. In our needfinding interviews with five pensioners in Turin, we saw two recurring tensions:
 
+1) Movement depends on fragile motivation. All participants see physical activity as essential to staying independent (gym, walking, Pilates), but motivation varies from day to day, and rigid plans don't fit how they actually live (e.g. P5 skips Pilates when she doesn't feel like it, but fears "ending up rusty").
+2) Social contact must stay on their own terms. Participants value casual, selective contact, especially with younger people (P3 seeks out young people so he isn't "caught out of date"; P4 exchanges food with young neighbours), but they also protect their solitude and avoid forced socialising.
+3) On top of this, existing solutions often rely on complex apps or online booking, which many older adults find frustrating or give up on (P4 gets stuck on online bookings; P1 no longer uses a phone at all).
 **Solution:**
-[How does your idea address this problem? What is the core concept and what makes it playful/engaging?]
-
----
+Step-by-Step is a neighbourhood platform that helps retirees by:
+1)Walks and gentle mobility sessions at fixed meeting points, with flexible pace and no commitment to attend.
+2)Intergenerational skill exchanges, such as crafts, cooking or short listening circles, where retirees and students both teach and learn.
+3) Joining is meant to be simple and accessible. The playful side comes from turning walking, storytelling and mutual learning into an enjoyable community habit rather than a health duty, while fully respecting each person's independence and pace.
 
 ## 2. Tasks and Storyboard
 
