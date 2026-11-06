@@ -77,10 +77,8 @@ The storyboard directly addresses the core needs identified during the needfindi
 
 | # | Modality / Alternative | Short description | Pros | Cons |
 |---|------------------------|-------------------|------|------|
-| 1 | [e.g. Smartphone app] | [...] | [...] | [...] |
-| 2 | [e.g. Smartwatch] | [...] | [...] | [...] |
-| 3 | [e.g. Voice assistant] | [...] | [...] | [...] |
-| 4 | [e.g. Tablet / kiosk] | [...] | [...] | [...] |
+| 1 |  Smartphone app| [...] | [...] | [...] |
+| 2 | Voice assistant| [...] | [...] | [...] |
 
 ### 3.b Selected Alternatives and Motivation
 
