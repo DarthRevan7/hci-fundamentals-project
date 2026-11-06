@@ -77,8 +77,8 @@ The storyboard directly addresses the core needs identified during the needfindi
 
 | # | Modality / Alternative | Short description | Pros | Cons |
 |---|------------------------|-------------------|------|------|
-| 1 | Touch(Smartphone app)|App with big buttons; tap to browse and join activities |    |    |
-| 2 | Voice assistant |   |   |   |
+| 1 | Touch(Smartphone app)|App with with comfortable and creative UI/UX | portable;familiar | needs to be designed carefully  |
+| 2 | Voice assistant | Talk to the app  |   | Fails in noisy streets; privacy when talking to public   |
 
 ### 3.b Selected Alternatives and Motivation
 
