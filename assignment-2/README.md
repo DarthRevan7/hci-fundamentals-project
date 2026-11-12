@@ -56,7 +56,7 @@ Goal: Organize and participate in a single-day group outing to a location that i
 
 ### 2.b Storyboard
 
-![Storyboard](../images/storyboard.jpeg)
+![Storyboard](../assignment-2/storyboard.jpeg)
 
 ![Flowchart 1](../assignment-2/prototype-1-team-starts-flowcharts.pdf)
 
