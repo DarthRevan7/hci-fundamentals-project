@@ -52,7 +52,7 @@ Goal: Organize and participate in a single-day group outing to a location that i
 
 ### 2.b Storyboard
 
-![Storyboard](images/storyboard.jpeg)
+![Storyboard](../images/storyboard.jpeg)
 
 **Why we chose it:**
 We selected this scenario because it follows a single protagonist on a continuous, realistic journey of social reconnection and community engagement. It effectively weaves together all three tasks in a natural progression: starting from a low-barrier micro-walk (Task 1), moving to an intimate skill-sharing session (Task 2), and culminating in a collaborative, voice-assisted plan for a complex group outing (Task 3).
