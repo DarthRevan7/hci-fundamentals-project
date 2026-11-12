@@ -16,6 +16,7 @@
 | Melissa Massarenti | s351695        |
 
 ### 1.b Value Proposition
+
 An application thath helps pensioners by keeping them active and connected by letting them go into gentle neighbourhood walks and casual skill exchange, at their own pace, without complications.
 
 ### 1.c Problem/Solution Overview
@@ -42,27 +43,36 @@ Step-by-Step is a neighbourhood platform that helps retirees by:
 ### 2.a Tasks
 
 #### Task 1: The Simple Task
+
 Goal: Join a spontaneous, low commitment neighborhood micro-walk to get some gentle exercise and fresh air.
 
 #### Task 2: The Moderate Task
+
 Goal: Participate in an intergenerational skill exchange (teaching a craft/cooking in exchange for a small errand or tech help).
 
 #### Task 3: The Complex Task
+
 Goal: Organize and participate in a single-day group outing to a location that is hard to reach by public transport (e.g., Sagra di San Michele) use voice for searching to make it simple and easier.
 
 ### 2.b Storyboard
 
 ![Storyboard](../images/storyboard.jpeg)
 
+![Flowchart 1](../assignment-2/prototype-1-team-starts-flowcharts.pdf)
+
+![Flowchart 2](../assignment-2/prototype-2-team-starts-flowcharts.pdf)
+
 **Why we chose it:**
 We selected this scenario because it follows a single protagonist on a continuous, realistic journey of social reconnection and community engagement. It effectively weaves together all three tasks in a natural progression: starting from a low-barrier micro-walk (Task 1), moving to an intimate skill-sharing session (Task 2), and culminating in a collaborative, voice-assisted plan for a complex group outing (Task 3).
 
 **Strengths:**
+
 - **Human-centric focus:** It centers on user behavior, emotional needs, and real-life interactions rather than getting bogged down in complex user interface (UI) details.
 - **Clear progression:** Demonstrates a believable, motivating transition from initial isolation to active community participation.
 - **Effective use of voice interaction:** Clearly shows how voice search removes friction when planning a complex trip.
 
 **Weaknesses:**
+
 - **Panel density:** Compressing three distinct tasks and a multi-step narrative into 6 panels requires keeping background contexts relatively simple.
 - **Single perspective:** Focusing primarily on one main character's viewpoint limits showing how multiple peers interact simultaneously within the system.
 
@@ -75,10 +85,10 @@ The storyboard directly addresses the core needs identified during the needfindi
 
 ### 3.a Overview of the Alternatives Considered
 
-| # | Modality / Alternative | Short description | Pros | Cons |
-|---|------------------------|-------------------|------|------|
-| 1 | Touch(Smartphone app)|App with with comfortable and creative UI/UX | portable;familiar | needs to be designed carefully  |
-| 2 | Voice assistant | Talk to the app  | easy to use  | Fails in noisy streets; privacy when talking to public   |
+| # | Modality / Alternative | Short description                            | Pros              | Cons                                                   |
+| - | ---------------------- | -------------------------------------------- | ----------------- | ------------------------------------------------------ |
+| 1 | Touch(Smartphone app)  | App with with comfortable and creative UI/UX | portable;familiar | needs to be designed carefully                         |
+| 2 | Voice assistant        | Talk to the app                              | easy to use       | Fails in noisy streets; privacy when talking to public |
 
 ### 3.b Selected Alternatives and Motivation
 
@@ -132,11 +142,13 @@ It’s easier for users with poor eyesight or low tech confidence because there�
 
 **Storyboard:**
 The storyboard follows one protagonist from a first low-pressure walk, to a skill-sharing session, to a voice-assisted group outing.
+
 - The first moment (the micro-walk) is represented by screens 1–6 (touch) and 20–23 (voice).
 - The second moment (the intimate skill exchange) is represented by screens 7–13 (touch) and 24 (voice).
 - The third moment (planning a hard-to-reach outing by voice) is represented by screens 14–19 (touch, starting with voice search) and 25–26 (voice).
 
 **Tasks:**
+
 - **Simple task – Join a micro-walk:** Touch: Home (1) → Walk details (2) → You're going (3) → Getting there (4) → Checked in (5) → Walk complete (6). Voice: Voice home (20) → Listening (21) → Walk (22) → Joined (23).
 - **Moderate task – Skill exchange (teach cooking, get tech help):** Touch (pensioner): Skill exchange (7) → Interested students (8) → Send a request (9) → Request accepted (10) → Thank-you (11). Touch (student side): Browse and offer details (12) → Request and confirmation (13). Voice: Skill exchange (24).
 - **Complex task – Group outing to a hard-to-reach place (Sacra di San Michele):** Touch: Day trips search (14) → Voice search listening (15) → Results (16) → Plan the day (17) → Invite friends (18) → Trip confirmed (19). Voice: Group outing (25), with the noisy-street fallback (26) if speech fails.
